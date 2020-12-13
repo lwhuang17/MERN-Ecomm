@@ -1,0 +1,23 @@
+{
+  "name": "mern-ecomm",
+  "version": "1.0.0",
+  "description": "Shopping Cart App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwhuang17/MERN-Ecomm.git"
+  },
+  "author": "David Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwhuang17/MERN-Ecomm/issues"
+  },
+  "homepage": "https://github.com/lwhuang17/MERN-Ecomm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
